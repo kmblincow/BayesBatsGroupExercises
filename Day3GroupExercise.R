@@ -1,7 +1,7 @@
 #Kayla Blincow
 #Day 3 Group Exercise
 
-
+#data source: https://election.lab.ufl.edu/voter-turnout/
 
 #QUESTION: What was the voter turnout rate before/after civil war?
 
